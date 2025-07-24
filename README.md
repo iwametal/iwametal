@@ -18,5 +18,6 @@
   ##
 
 <div align="center">
+  <img src="https://simpleicons.org/icons/gnuicecat.svg">
   <a href="https://www.linkedin.com/in/leo-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23090909?style=for-the-badge&logo=linkedin&logoColor=a087ea" target="_blank"></a>
 </div>
