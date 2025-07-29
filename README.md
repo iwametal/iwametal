@@ -19,6 +19,6 @@
 
 <div align="center">
   <img alt="gnu-icecat" height="30" width="40" src="https://simpleicons.org/icons/gnuicecat.svg">
-  <i class="fa-brands fa-linkedin"></i>
+  <img alt="linkedin-icon" height="30" width="40" src="https://github.com/iwametal/iwametal/blob/master/resources/icons/linkedin-brands-solid-full.svg">
   <a href="https://www.linkedin.com/in/leo-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23090909?style=for-the-badge&logo=linkedin&logoColor=a087ea" target="_blank"></a>
 </div>
