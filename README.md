@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leo-andrade/" target="_blank">
-    <img alt="gnu-icecat" height="30" width="40" src="https://simpleicons.org/icons/gnuicecat.svg">
-    <img height="40" widht="40" src="https://github.com/iwametal/iwametal/blob/master/resources/icons/linkedin-brands-solid-full.svg" target="_blank">
+    <img alt="gnu-icecat" height="40" width="50" src="https://simpleicons.org/icons/gnuicecat.svg">
+    <img height="40" widht="50" src="https://github.com/iwametal/iwametal/blob/master/resources/icons/linkedin-brands-solid-full.svg" target="_blank">
   </a>
   <!-- <a href="https://www.linkedin.com/in/leo-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23090909?style=for-the-badge&logo=linkedin&logoColor=a087ea" target="_blank"></a> -->
 </div>
